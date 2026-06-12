@@ -1,16 +1,14 @@
 <h1 align="center">✨ Olá, eu sou Ester Macedo ✨</h1>
 
 <p align="center">
-  💻 Estudante de Informática para Internet <br>
-  🚀 Em constante aprendizado na área de tecnologia <br>
-  🌱 Desenvolvendo habilidades em programação e desenvolvimento web
+💻 Estudante de Informática para Internet <br>
+🚀 Construindo minha carreira na tecnologia <br>
+🌱 Sempre aprendendo e evoluindo
 </p>
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Tecnologia;Desenvolvimento+Web;HTML+CSS+JavaScript;Sempre+Aprendendo&center=true&width=500&height=50)
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Estudante+de+Tecnologia;Desenvolvimento+Web;HTML+%7C+CSS+%7C+JavaScript;Sempre+Aprendendo+Algo+Novo" />
+</p>
 
 ---
 
@@ -44,7 +42,7 @@ Tenho grande interesse pela área de tecnologia e estou constantemente buscando 
 
 Atualmente atuo como Jovem Aprendiz, conciliando minhas atividades profissionais com a formação técnica em Informática para Internet.
 
-Essa experiência tem fortalecido competências como:
+Essa experiência tem fortalecido habilidades como:
 
 - Comunicação
 - Organização
@@ -92,10 +90,26 @@ Continuar desenvolvendo minhas competências em programação e desenvolvimento 
 
 ---
 
-## 📫 Contato
+## 🌟 Minha Jornada
 
-Obrigada por visitar meu perfil!
+Cada projeto presente neste perfil representa um passo importante na minha evolução como desenvolvedora.
 
-Aqui você poderá acompanhar meus projetos, estudos e minha trajetória de crescimento na área de tecnologia.
+Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e transformar conhecimento em soluções criativas e funcionais.
 
-⭐ Seja bem-vindo(a)!
+---
+
+## 🎮 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ester.macedo/ester.macedo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
+
+---
+
+<div align="center">
+
+### 💜 Transformando curiosidade em conhecimento e conhecimento em projetos.
+
+⭐ Obrigada pela visita!
+
+</div>
