@@ -100,10 +100,9 @@ Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e
 
 ## 🎮 Contribuições
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ester.macedo/ester.macedo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</p>
+<img src="https://raw.githubusercontent.com/estermac/estermac/snake-output/snake.svg" alt="Snake animation" />
 
+###
 ---
 
 <div align="center">
